@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heatescape.github.io/au-workvisa-guide/sitemap.xml
